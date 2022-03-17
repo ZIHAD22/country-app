@@ -6,7 +6,6 @@ function App() {
     <div className="App">
       <h1>Country Flag</h1>
       <div>
-        {/* {} */}
         <Countries />
       </div>
     </div>
