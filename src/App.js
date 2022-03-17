@@ -1,5 +1,4 @@
 import './App.css'
-import { useEffect, useState } from 'react'
 import Countries from './components/Countries/Countries'
 
 function App() {
@@ -7,7 +6,6 @@ function App() {
     <div className="App">
       <h1>Country Flag</h1>
       <div>
-        {/* <CountryLoad /> */}
         <Countries />
       </div>
     </div>
